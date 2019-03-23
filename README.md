@@ -1,2 +1,3 @@
 # hello-world
-My first project
+My extordinory first script. 
+Never ending program :-)
